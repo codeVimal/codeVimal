@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @codeVimal
-- 👀 I’m interested in web development, content creation and the Internet
-- 🌱 I’m currently learning Engineering
+- 👀 I Develop web applications
 - 📫 How to reach me ~ mailto: vimalpandiyan07@gmail.com
 
 <!---
